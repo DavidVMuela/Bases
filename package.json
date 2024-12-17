@@ -1,0 +1,27 @@
+{
+  "name": "bases-de-datos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidVMuela/Bases.git"
+  },
+  "keywords": [
+    "node",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "David Villagómez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidVMuela/Bases/issues"
+  },
+  "homepage": "https://github.com/DavidVMuela/Bases#readme",
+  "description": "",
+  "dependencies": {
+    "mongoose": "^8.8.4"
+  }
+}
